@@ -12,3 +12,8 @@ More examples:
 
 # GAME OUTPUT DEMO
 ![image](https://github.com/lenduong/Numbo/assets/141017307/9c101d69-19a9-47a8-9f8a-aa2360416fca)
+
+# STRATEGY FOR COMPUTER TO GUESS
+
+![image](https://github.com/lenduong/Numbo/assets/141017307/31cf11d8-b1d8-4a23-9386-aece5b0a088f)
+
